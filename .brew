@@ -31,6 +31,3 @@ the_silver_searcher
 wget
 wxmac
 xz
-zsh-autosuggestions
-zsh-completions
-zsh-syntax-highlighting

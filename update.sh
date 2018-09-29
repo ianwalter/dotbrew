@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Output Homebrew packages to .brew file.
 brew list > ~/.brew
