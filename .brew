@@ -1,12 +1,13 @@
+antigen
 curl
 elixir
 erlang
-fish
 gdbm
 gettext
 go
 icu4c
 jpeg
+jq
 kubernetes-cli
 kubernetes-helm
 libidn2
@@ -26,7 +27,10 @@ ruby
 rust
 sqlite
 sysbench
-thefuck
+the_silver_searcher
 wget
 wxmac
 xz
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
