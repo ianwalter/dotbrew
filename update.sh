@@ -11,3 +11,7 @@ brew cask list > ~/.cask
 
 # Copy .cask file back to repsitory.
 cp ~/.cask ./.cask
+
+if [[ $? == 0 ]]; then
+  echo "Updated package lists successfully."
+fi

@@ -26,3 +26,7 @@ while read p; do
     brew cask install $p
   fi
 done < ~/.cask
+
+if [[ $? == 0 ]]; then
+  echo "Installed Homebrew packages successfully."
+fi
