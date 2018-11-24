@@ -5,6 +5,7 @@ gdbm
 gettext
 git
 go
+go-task
 icu4c
 jpeg
 jq
@@ -24,6 +25,7 @@ pcre2
 perl
 pkg-config
 python
+python3
 python@2
 rclone
 readline
