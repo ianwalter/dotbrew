@@ -25,7 +25,11 @@ cask "docker"
 cask "firefox"
 cask "google-chrome"
 cask "google-cloud-sdk"
+cask "iterm2"
 cask "kap"
+cask "mailspring"
+cask "runjs"
+cask "tableplus"
 cask "visual-studio-code"
 
 mas "Amphetamine", id: 937984704
