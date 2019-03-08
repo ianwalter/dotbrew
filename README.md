@@ -1,28 +1,26 @@
 # dotbrew
-> Ian's [Homebrew](https://brew.sh/) configuration (part of
-  [dotfiles](https://github.com/ianwalter/dotfiles))
+> Ian's [Homebrew][brewUrl] configuration (part of [dotfiles][dotfileUrl])
 
 ## Installation
 
-Installs all brew and cask packages in the package lists if they are not already
-installed:
+Installs applications using [Homebrew][brewUrl], [Homebrew Cask][caskUrl],
+[Homebrew Bundle][bundleUrl], and [mas-cli][masUrl]:
 
 ```console
 ./install.sh
 ```
 
-## Update
+## License
 
-Saves the list of installed brew and cask packages back to the repo:
-
-```console
-./update.sh
-```
-
-## Uninstall
-
-(not implemented)
+Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
 
 &nbsp;
 
-ISC &copy; [Ian Walter](http://iankwalter.com)
+Created by [Ian Walter](https://iankwalter.com)
+
+[brewUrl]: https://brew.sh
+[dotfilesUrl]: https://github.com/ianwalter/dotfiles
+[caskUrl]: https://github.com/Homebrew/homebrew-cask
+[bundleUrl]: https://github.com/Homebrew/homebrew-bundle
+[masUrl]: https://github.com/mas-cli/mas
+[licenseUrl]: https://github.com/ianwalter/dotbrew/blob/master/LICENSE
