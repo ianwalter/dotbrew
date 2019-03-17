@@ -17,6 +17,7 @@ brew "ruby", link: true
 brew "rust"
 brew "sqlite"
 brew "the_silver_searcher"
+brew "tmux"
 brew "vim"
 brew "watchman"
 brew "wget"
