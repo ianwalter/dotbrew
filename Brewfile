@@ -1,6 +1,7 @@
 tap "goreleaser/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "nektos/tap"
 
 brew "curl"
 brew "elixir"
@@ -22,6 +23,7 @@ brew "watchman"
 brew "wget"
 brew "wrk"
 brew "goreleaser/tap/goreleaser"
+brew "nektos/tap/act"
 
 cask "docker"
 cask "firefox"
