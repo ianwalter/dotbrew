@@ -10,6 +10,12 @@ Installs applications using [Homebrew][brewUrl], [Homebrew Cask][caskUrl],
 ./install.sh
 ```
 
+## Updating
+
+```console
+brew bundle dump --force
+```
+
 ## License
 
 Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]

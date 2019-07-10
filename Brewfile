@@ -1,21 +1,29 @@
 tap "goreleaser/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/core"
 tap "nektos/tap"
-
+brew "autoconf"
+brew "python"
+brew "awscli"
 brew "curl"
-brew "elixir"
+brew "doctl"
+brew "drone-cli"
 brew "erlang"
+brew "elixir"
 brew "git"
 brew "go"
 brew "jq"
+brew "libtool"
+brew "libusb"
+brew "man-db"
 brew "mas"
 brew "mosh"
+brew "nmap"
 brew "node"
 brew "rclone"
-brew "ruby", link: true
+brew "ruby"
 brew "rust"
-brew "sqlite"
 brew "the_silver_searcher"
 brew "tmux"
 brew "vim"
@@ -24,7 +32,6 @@ brew "wget"
 brew "wrk"
 brew "goreleaser/tap/goreleaser"
 brew "nektos/tap/act"
-
 cask "docker"
 cask "firefox"
 cask "google-chrome"
@@ -33,20 +40,24 @@ cask "graphql-playground"
 cask "iterm2"
 cask "kap"
 cask "mailspring"
+cask "numi"
+cask "oracle-jdk"
 cask "postman"
 cask "runjs"
 cask "tableplus"
 cask "visual-studio-code"
-
+mas "1Password 7", id: 1333542190
 mas "Amphetamine", id: 937984704
 mas "DaisyDisk", id: 411643860
 mas "Kindle", id: 405399194
 mas "Magnet", id: 441258766
 mas "Markoff", id: 1084713122
 mas "Micro Snitch", id: 972028355
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "PDF Expert", id: 1055273043
 mas "Pixa", id: 527618971
 mas "Slack", id: 803453959
-mas "Things3", id: 904280696
-mas "UlyssesMac", id: 1225570693
+mas "Things", id: 904280696
 mas "Xcode", id: 497799835
