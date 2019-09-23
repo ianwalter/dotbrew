@@ -13,7 +13,7 @@ Installs applications using [Homebrew][brewUrl], [Homebrew Cask][caskUrl],
 ## Updating
 
 ```console
-brew bundle dump --force
+./update.sh
 ```
 
 ## License
