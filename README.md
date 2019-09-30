@@ -1,5 +1,5 @@
 # dotbrew
-> Ian's [Homebrew][brewUrl] configuration (part of [dotfiles][dotfileUrl])
+> Ian's [Homebrew][brewUrl] configuration (part of [dotfiles][dotfilesUrl])
 
 ## Installation
 
