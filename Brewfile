@@ -5,6 +5,7 @@ tap "homebrew/core"
 tap "nektos/tap"
 brew "autoconf"
 brew "autossh"
+brew "bat"
 brew "cmake"
 brew "curl"
 brew "go"
@@ -28,6 +29,7 @@ brew "nmap"
 brew "node"
 brew "nushell"
 brew "octant"
+brew "pastel"
 brew "rclone"
 brew "ripgrep"
 brew "ruby"
@@ -54,7 +56,10 @@ cask "visual-studio-code"
 mas "1Password 7", id: 1333542190
 mas "Amphetamine", id: 937984704
 mas "DaisyDisk", id: 411643860
+mas "GarageBand", id: 682658836
 mas "iA Writer", id: 775737590
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "Magnet", id: 441258766
 mas "Markoff", id: 1084713122
