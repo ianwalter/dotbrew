@@ -56,18 +56,12 @@ cask "visual-studio-code"
 mas "1Password 7", id: 1333542190
 mas "Amphetamine", id: 937984704
 mas "DaisyDisk", id: 411643860
-mas "GarageBand", id: 682658836
 mas "iA Writer", id: 775737590
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
 mas "Magnet", id: 441258766
 mas "Markoff", id: 1084713122
 mas "Micro Snitch", id: 972028355
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "PDF Expert", id: 1055273043
-mas "Pixa", id: 527618971
 mas "Slack", id: 803453959
 mas "Things", id: 904280696
 mas "Xcode", id: 497799835
