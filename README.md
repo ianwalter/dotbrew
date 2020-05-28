@@ -22,7 +22,7 @@ Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
 
 &nbsp;
 
-Created by [Ian Walter](https://iankwalter.com)
+Created by [Ian Walter](https://ianwalter.dev)
 
 [brewUrl]: https://brew.sh
 [dotfilesUrl]: https://github.com/ianwalter/dotfiles
