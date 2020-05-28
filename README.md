@@ -18,7 +18,7 @@ Installs applications using [Homebrew][brewUrl], [Homebrew Cask][caskUrl],
 
 ## License
 
-Apache 2.0 with Commons Clause - See [LICENSE][licenseUrl]
+Hippocratic License - See [LICENSE][licenseUrl]
 
 &nbsp;
 
