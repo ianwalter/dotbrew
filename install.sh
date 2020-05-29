@@ -7,3 +7,5 @@ fi
 
 # Install applications from the Brewfile.
 brew bundle
+
+printf "\n✅ Successfully installed Homebrew packages\n\n"
