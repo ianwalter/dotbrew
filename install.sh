@@ -26,4 +26,6 @@ brew bundle
 # Change back to this module's directory.
 cd $dotbrewDir
 
-printf "\n✅ Successfully installed Homebrew packages\n\n"
+if [[ $? == 0 ]]; then
+  printf "\n✅ Successfully installed Homebrew packages\n\n"
+fi

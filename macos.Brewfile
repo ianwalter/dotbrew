@@ -1,6 +1,5 @@
 tap "homebrew/cask"
 tap "lukakerr/things"
-brew "hyperkit"
 brew "macvim"
 brew "mas"
 cask "1password-cli"
