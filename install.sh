@@ -3,6 +3,11 @@
 if [[ ! `which brew` ]]; then
   # Install Homebrew (and Linuxbrew).
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+  if [[ $(uname) == 'Linux' ]]; then
+    # Add brew to $PATH for the current session.
+    eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+  fi
 fi
 
 # Make the .config directory if it doesn't exist yet.
