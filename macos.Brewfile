@@ -1,3 +1,4 @@
+tap "homebrew/cask"
 tap "lukakerr/things"
 brew "hyperkit"
 brew "macvim"

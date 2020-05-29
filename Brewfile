@@ -1,6 +1,5 @@
 tap "github/gh"
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/core"
 brew "autoconf"
 brew "autossh"
