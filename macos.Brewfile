@@ -2,9 +2,9 @@ tap "homebrew/cask"
 brew "macvim"
 brew "mas"
 cask "1password-cli"
-cask "chromium"
 cask "docker"
 cask "homebrew/cask-versions/firefox-developer-edition"
+cask "google-chrome"
 cask "google-cloud-sdk"
 cask "hey"
 cask "iterm2"
@@ -14,7 +14,6 @@ cask "pocket-casts"
 cask "tableplus"
 cask "visual-studio-code"
 mas "1Password 7", id: 1333542190
-mas "Acorn", id: 1233861775
 mas "DaisyDisk", id: 411643860
 mas "Developer", id: 640199958
 mas "Magnet", id: 441258766
