@@ -20,5 +20,6 @@ mas "Magnet", id: 441258766
 mas "Micro Snitch", id: 972028355
 mas "PDF Expert", id: 1055273043
 mas "Raindrop.io for Safari", id: 957810159
+mas "Slack", id: 803453959
 mas "Speedtest", id: 1153157709
 mas "Todoist", id: 585829637
